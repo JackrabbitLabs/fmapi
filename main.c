@@ -26,7 +26,7 @@
  */
 #include <string.h>
 
-#include "fmapi.h"
+#include "main.h"
 
 /* MACROS ====================================================================*/
 
